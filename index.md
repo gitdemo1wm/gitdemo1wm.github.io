@@ -7,4 +7,4 @@ description: The Subtitle
 
 Here is some stuff I've created:
 - [Time Series Analysis](/timeseries/index.md)
-- [My Silly Repo](https://github.com/gitdemo1wm/silly)
+- [My Silly Repo](https://github.com/gitdemo1wm/deleteMe)
